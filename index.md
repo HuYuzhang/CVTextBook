@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](assets/images/caption.png)
+![](caption.png)
 
 
 欢迎使用华为计算机视觉教材，在这里你可以访问本教材的各种资源。
